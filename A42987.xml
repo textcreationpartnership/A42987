@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short treatise shewing the causes and remedies of that general disease spread abroad throughout this nation, commonly termed by many the plague of the guts but it is very probable to bee that sort of flux, called by the name of dysenteria, or red-flux. With some other remarkable remedies for other diseases worthy to bee noted. Published by N.H. of Dorchester, in the county of Dorset for the good of those that desire their health. Try and trust. Try man as the instrument, but trust God as the helper.</title>
+            <author>N. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42987</idno>
+            <idno type="STC">Wing H100A</idno>
+            <idno type="STC">ESTC R215851</idno>
+            <idno type="EEBO-CITATION">99827613</idno>
+            <idno type="PROQUEST">99827613</idno>
+            <idno type="VID">32035</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32035)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1849:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short treatise shewing the causes and remedies of that general disease spread abroad throughout this nation, commonly termed by many the plague of the guts but it is very probable to bee that sort of flux, called by the name of dysenteria, or red-flux. With some other remarkable remedies for other diseases worthy to bee noted. Published by N.H. of Dorchester, in the county of Dorset for the good of those that desire their health. Try and trust. Try man as the instrument, but trust God as the helper.</title>
+                  <author>N. H.</author>
+               </titleStmt>
+               <extent>[8], 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dysentery --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32035:1"/>
+            <pb facs="tcp:32035:1"/>
+            <p>A SHORT TREATISE, <hi>SHEWING</hi> The Cauſes and Remedies of that General Diſeaſe ſpread abroad throughout this Nation, commonly termed by many the Plague of the Guts; But it is very probable to bee that ſort of <hi>Flux,</hi> called by the name of <hi>Dyſenteria,</hi> or <hi>Red-Flux.</hi>
+            </p>
+            <p>With ſome other remarkable Remedies for other Diſeaſes worthy to bee noted.</p>
+            <p>Publiſhed by <hi>N. H.</hi> of <hi>Dor<g ref="char:EOLhyphen"/>cheſter,</hi> in the County of <hi>Dorſet</hi> for the good of thoſe that deſire their Health.</p>
+            <p>
+               <hi>Try and Truſt.</hi>
+            </p>
+            <p>Try man as the Inſtrument, but truſt God as the Helper.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Ibbitſon,</hi> 1658.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:32035:2"/>
+            <pb facs="tcp:32035:2"/>
+            <head>TO THE CHRISTIAN READER: OR Any one to whom theſe Pre<g ref="char:EOLhyphen"/>ſence ſhall come; Health and Peace bee multiplied.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>I Have as a Miniſter, or ſervant un<g ref="char:EOLhyphen"/>to thee, preſcribed away if thou wilt hearken to me, as from God, for thy good, to bee a Phyſitian un<g ref="char:EOLhyphen"/>to thee both for ſoul and body; if thou wilt give thy heart to receive wholeſome counſel and advice from God, and my ſelf, by uſing and put<g ref="char:EOLhyphen"/>ting into practice what is here ſet down in this following Treatiſe: The great and wiſe God knowing the inward frame and temper of all mens
+<pb facs="tcp:32035:3"/>
+hearts, knows how to ſuite an out<g ref="char:EOLhyphen"/>ward judgement upon any particular perſon, much more upon a whole Nation, according to the inward diſtemper of the heart and ſoul of man. There is (as I am informed) a general Looſneſs amongſt perſons, and that not or a few, but many, with terrible gripings in the body; may not this fitly intimate, and put us in minde of that general Looſneſs not onely in Religion, for matter of Worſhip, but alſo a great Looſneſs, and Liberty in matter of Life and Converſation, by giving way to the ſatisfying of the fleſh, and this is ſeen not only amongſt prophane ones, from whom wee can expect but little better, but hath been, and ſtill is found even amongſt thoſe which have made Profeſſion of the Truth, and have been accounted as Pro<g ref="char:EOLhyphen"/>feſſors of the ſame, amongſt them that are truly godly, whereby they
+<pb facs="tcp:32035:3"/>
+have fretted and grieved the Spirit of the Lord, and have cauſed the Name of God to bee evill ſpoken of.</p>
+            <p>And this evill is not found onely in one corner of the Land, but gene<g ref="char:EOLhyphen"/>rally throughout all the parts there<g ref="char:EOLhyphen"/>of; and therefore as the ſin is, ſo is the plague or puniſhment, not onely in the City of <hi>London,</hi> and the places adjoyning, but it is ſpread here and there over the whole Nation. Wherefore (I think) it is good for us to look about us, and to ſee the hand that ſmites, ſeeing it is not a mediate, but an immediate judge<g ref="char:EOLhyphen"/>ment from God himſelf, and there<g ref="char:EOLhyphen"/>fore eſpecially to bee ſought un<g ref="char:EOLhyphen"/>to.</p>
+            <p>And becauſe it may bee, thoſe that are in Authority, have too much winked at, and have not put in exe<g ref="char:EOLhyphen"/>cution the Law of God, to wit, againſt Blaſphemy, &amp;c. There<g ref="char:EOLhyphen"/>fore
+<pb facs="tcp:32035:4"/>
+God hath now taken the power into his own hand, and hath taken away many by death, even thoſe a<g ref="char:EOLhyphen"/>mongſt others that were never guilty of any ſuch horrible Crimes (it may bee) for the ſins of others. The people of the Lord were puniſhed for the ſin of <hi>Acha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and yet (as far as wee know) ſome of them whoſe names were written in the Book of Life.</p>
+            <p>Wherefore <hi>(Chriſtian Reader)</hi> I would, if I could adviſe thee as from the Lord, that thou conſider ſeri<g ref="char:EOLhyphen"/>ouſly of theſe things, and deſire true underſtanding from God: The Plague is general, and it requires general repentance, not onely by a publick humiliation, but every fa<g ref="char:EOLhyphen"/>mily and perſon a part by themſelves, with ſeeking and turning unto God. Thoſe that finde themſelves guilty, to bethink themſelves eſpecially, and labour to amend, for though the
+<pb facs="tcp:32035:4"/>
+hand of God is not upon them in par<g ref="char:EOLhyphen"/>ticular, or whether it may, or may not bee, and ſo they may eſcape, yet it may bee for their ſakes, that the hand of the Lord is gone out againſt others.</p>
+            <p>And for thoſe that have kept cloſe to God (whom God have preſerved) and have not yet fallen from their firſt Love, labor ſtil to keep ſure foot<g ref="char:EOLhyphen"/>ing for holineſs of life, and ſound<g ref="char:EOLhyphen"/>neſs of doctrine, That the Goſpel of our Lord Jeſus Chriſt may run on, and bee glorified amongſt them which are truly ſanctified, and to mourn in ſecret for Gods afflicting hand over his people. A word to the wiſe is ſufficient, if ſo bee thou art wiſe for thy ſelf, and I am thine, as thou art thy ſelf, in the Lord,</p>
+            <closer>
+               <signed>N. H.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:32035:5"/>
+            <head>A ſhort TREATISE SHEWING The Cauſes and Remedies of that general Diſeaſe ſpread abroad throughout this Nation, com<g ref="char:EOLhyphen"/>monly termed by many the Plague of the Guts, but it is very probable to be that ſort of Flux, called by the name of <hi>Dyſenteria;</hi> or <hi>Red-Flux.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas I am credibly inform<g ref="char:EOLhyphen"/>ed that the Lord hath viſited this Nation with a certain Diſeaſe, not onely in the City of <hi>London,</hi> but gene<g ref="char:EOLhyphen"/>rally throughout the whole Nation; I thought it my duty in charity, through the inſtigation of certain friends, to pub<g ref="char:EOLhyphen"/>liſh to the view of thoſe whom it may concern, as children, and others of riper years, certain remedies, which I have by
+<pb n="1" facs="tcp:32035:5"/>
+my own experience found out, for many years ſince, which was never before now made known unto the world, and being made uſe of (as it hath been upon many perſons heretofore, and upon ſome per<g ref="char:EOLhyphen"/>ſons of late) I never failed (to my know<g ref="char:EOLhyphen"/>ledge) the firſt or ſecond day within the ſpace of eight and forty hours, but it hath ceaſed and ſtopt without any prejudice to the perſon, which may ſeem to follow by reaſon of the ſuddenneſs of the cure, or any coſtiveneſs, which I know will bee ob<g ref="char:EOLhyphen"/>jected and feared by many. And although the things preſcribed for the cure of this Diſeaſe are mean and common, yet think not meanly of thoſe weak means, which may through the bleſſing of God, pro<g ref="char:EOLhyphen"/>duce ſtrange and wonderful effects. And take this for a truth, that although the Diſeaſe have held for a month or two, or for a quarter of a year, or more, thoſe two receits which are mentioned, or ſet down with the mark of a ſtar above the reſt, hath (and as far as I know) may through the bleſſing of God, remedy this Diſeaſe, according to the time before preſcribed, or ſooner, as I have found by experience, the ſame night.</p>
+            <p>
+               <pb n="2" facs="tcp:32035:6"/>And beſides this, I have found for ma<g ref="char:EOLhyphen"/>ny years ſince, that thoſe perſons which have accuſtomed themſelves to Phyſick barely, and nothing elſe, have (for the moſt part of them) dyed, though ſome have lingered a long time in it, to wit, two or three months. And during that time they have been in extream torments by reaſon of thoſe contrary humors, and in<g ref="char:EOLhyphen"/>ward gripings of the Guts, which have brought them to a Conſumption of the whole, and ſo have finiſhed their end in ſuch extream torments, as cannot well bee expreſſed.</p>
+            <p>There are (as I am informed) many Phyſitians, which terme this Diſeaſe to bee the Plague of the Guts, the reaſon, as I ſuppoſe is; becauſe moſt Phyſitians have not been acquainted with this Diſeaſe in this Nation, though it is common in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and as I have heard in <hi>Scotland,</hi> but in plain (in ſubmiſſion bee it ſpoken) it is nothing elſe, or nothing leſſe than the Flux in the bowels, in that I finde it takes them in the ſame manner as it did thoſe that had the Flux in <hi>Ireland,</hi> and are now cured with the ſame Remedies.</p>
+            <p>And for the better underſtanding here<g ref="char:EOLhyphen"/>of,
+<pb n="3" facs="tcp:32035:6"/>
+I ſhall here ſet down,</p>
+            <p n="1">1 Briefly and in general, what a Flux it.</p>
+            <p n="2">2 The ſeveral kinde of Fluxes, toge<g ref="char:EOLhyphen"/>ther with their cauſes, that you may diſ<g ref="char:EOLhyphen"/>cern thereby the one from the other, and what little probability there is that it ſhould bee the Plague of the Guts.</p>
+            <p n="3">3 The Remedy for this, or any of the like Diſeaſe, ſo called, though inferior unto it.</p>
+            <p n="4">4 The ordering of the body afterward in caſe of the worſt, though I never found any danger to enſue.</p>
+            <div type="part">
+               <head>Of the Flux in general.</head>
+               <p>If it come through much eating or drinking, or through Flegmatick matter, it cometh not often, nor continueth long, hee needeth no remedy, unleſs it bee cau<g ref="char:EOLhyphen"/>ſed of overmuch weakneſs.</p>
+            </div>
+            <div type="part">
+               <head>Of the Flux Lyenteria, <hi>to wit,</hi> Cholle, and Flegme.</head>
+               <p>This is an infirmity of the retentive vertue of the ſtomack, with the ſlipperi<g ref="char:EOLhyphen"/>neſs
+<pb n="4" facs="tcp:32035:7"/>
+of the Guts, whereby the ment being taken very ſuddenly without digeſtion, like as it was received, paſſeth away by ſtool.</p>
+            </div>
+            <div type="part">
+               <head>Of the Flux or Laske Diarrhea.</head>
+               <p>This is a wateriſh Lask, with griping, but without excoriation of the bowels, and without heat, whereby the body is con<g ref="char:EOLhyphen"/>ſumed; It is cauſed of all humors of the body.</p>
+            </div>
+            <div type="part">
+               <head>Of the Flux, or Laske called Dyſenteria, <hi>viz.</hi> The Red-Flux.</head>
+               <p>And this is the Flux which by likelihood is this Diſeaſe which is ſpread abroad in this Nation.</p>
+               <p>This is an exulceration, or excoriation of the intrals.</p>
+               <p>And is deſcribed in this manner.</p>
+               <p>It is a pain of the intrals which infla<g ref="char:EOLhyphen"/>meth, ſretteth, and excoriateth the ſame, ſo as with the matter of the ſcouring, blood is avoyded, and it cauſeth much gnawing, which cauſeth the Pattern to go often to ſtool.</p>
+               <p>
+                  <pb n="5" facs="tcp:32035:7"/>The cauſes are ſharp humors which paſſeth through the bowels, and there ex<g ref="char:EOLhyphen"/>ulcerateth the ſame, fr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and take away the fatneſs. Alſo when the body is over-charged with Choller, Melancholy, and Flegme, of which nature ſeeks to un<g ref="char:EOLhyphen"/>burthen her ſelf.</p>
+            </div>
+            <div type="part">
+               <head>Another kinde of Dyſenteria, or Bloody-Flux.</head>
+               <p>This cometh without ſcraping of the Guts, and of much more blood than the former, wherefore it is rather taken for the Flux of the Liver, than <hi>Dyſenteria,</hi> though wrongfully ſo called.</p>
+            </div>
+            <div type="part">
+               <head>For an ordinary Laske, or Flux in Children, or griping.</head>
+               <p>* Take half a handfull of Couch-graſs cut, fit to boyl, of Carraway-ſeed, and Fennel-ſeed bruiſed (or Anniſeed inſtead of the Fennel-ſeed if it cannot be had) of each half an ounce, nine or ten Plantaine leaves waſhed and cut, boyl theſe in a quart of water to a pinte, then ſtrain it, after put in of your Pomgranet ryne poudred, of Cyn<g ref="char:EOLhyphen"/>namon poudred, of each as much as will
+<pb n="6" facs="tcp:32035:8"/>
+lye on a groat, and a quarter of a pinte of milk, or leſs, and ſet it over the fire again, and let it boyl for the ſpace of halfe a quarter of an hour, then take it off the fire, and let the childe drink of it warm morning and evening.</p>
+            </div>
+            <div type="part">
+               <head>A ſpecial Remedy for the cure of the Flux, cal<g ref="char:EOLhyphen"/>led Dyſenteria, or for any other Flux.</head>
+               <p>* Take the inner ryne of an Oak, one great handfull, Anniſeed and Carraway-ſeed bruiſed alike, one ounce, of Couch-graſs cut, fit to boyl, one great handful, of Plantane waſhed and cut, one little hand<g ref="char:EOLhyphen"/>ful, boyl theſe in a pottle of water to a quart, then ſtrain it, and put it over the fire again, and put in a quarter of a pinte of milk, to ſweeten it ſomething, becauſe of the rankneſs of the graſs; as alſo Cyn<g ref="char:EOLhyphen"/>namon poudred, and <hi>Sanguis Draconis</hi> (or Dragons blood) of each as much as will lye on ſix pence, let it boyl again half a quarter of an hour. Drink of this a good draught firſt and laſt, warm, faſting in the morning two hours after, and two or three houres after ſupper ere you go to bed. Note this, that you may not bee de<g ref="char:EOLhyphen"/>ceived,
+<pb n="7" facs="tcp:32035:8"/>
+your Couch-graſs, is not your Knot graſs, for that will do more hurt than good, but it is your Long-graſs which runs upon the ground, with ſweet knots or knobs.</p>
+            </div>
+            <div type="part">
+               <head>For a Flax in extremity, with never ſo great gripings, and the party worn away.</head>
+               <p>Take of Almonds one pound blancht, and ſtampt in a Mortar ſmall, twelve yolks of new laid Eggs roaſted hard, bray them together, take a pinte of ſtrong Vinegar, put it into the ſtuffe, and mingle them altogether, and put all into a fair pot of earth (but remember to ſtamp it well) then take five or ſix ſpoonfulls at once warm in a cup, and drink four or five times a day if need be. <hi>Proba<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> eſt.</hi>
+               </p>
+               <p>Although this Receit cannot chuſe but bee good in it ſelfe, yet it hath not been tryed by mee as often as the former Re<g ref="char:EOLhyphen"/>medy.</p>
+               <p>In all theſe Fluxes you may make uſe of this white, Plaiſter, if you pleaſe, and partly becauſe it is good for many ſpecial uſes beſides this diſeaſe of the Flux, and partly becauſe children are not ſo ſubject to
+<pb n="8" facs="tcp:32035:9"/>
+take inward applications, as outward, therefore I ſhall <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſet down how it is made, with the Remedies thereof.</p>
+               <p>Take of the beſt S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> oyl a quart and four ounces; Red-lead and White-lead a<g ref="char:EOLhyphen"/>like, one pound, well beaten into fine duſt; Cape-ſoap, (or Caſtle-ſoap) finely ſliced twelve ounces, mingle theſe well together in an earthen pipkin well glazed (it muſt hold a gallon to hold this quantity) <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ir it with an Iron ball having a handle to it, when this is well mingled together, the Soap come<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> upward, then ſet it upon a fire of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls an hour and hal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſtill ſtir<g ref="char:EOLhyphen"/>ring it, till the redneſs hee turned into a gray colour, then drop a drop of it upon a trencher; and if it cleave unto the tren<g ref="char:EOLhyphen"/>cher it is enough, then pour it out by little and little upon a table, and with a little freſh greaſe anoint your hands, and the table, make it up <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>roules as faſt as you can; keep it for your uſe two or three yeares, the elder the better. But you ac<g ref="char:EOLhyphen"/>cording to your need you may take an e<g ref="char:EOLhyphen"/>qual quantity of each, whether leſſe or more (I <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of this b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by the way.)</p>
+               <p>It being laid to the ſtomack; provokes appetite, it taketh a way any grief<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or a<g ref="char:EOLhyphen"/>bout
+<pb n="9" facs="tcp:32035:9"/>
+the ſtomack. It is a pr<gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> melody for the Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lick, it being appiled to the belly. And being laid to the re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the back, it eaſeth the bloody-flux, the run<g ref="char:EOLhyphen"/>ning of the Rel<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, the h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the Kid<g ref="char:EOLhyphen"/>neyes, the weakneſs of the back. It heal<g ref="char:EOLhyphen"/>eth all ſwellings and bruiſes: It drieth a<g ref="char:EOLhyphen"/>way running humors without breaking of the skin: It taketh away all aches: It breaketh fellons and other impoſtumes, and healeth them; being laid to the head, it is good for the Evill: It helpeth the headach, and good for eyes. This in a Manuſcript.</p>
+               <p>There was once a Gentlewoman, ex<g ref="char:EOLhyphen"/>traordinarily perplexed night and day with ſuch inward gripings and frettings for the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pice of almoſt half a year, as I was truly informed by her husband, ſo as that the pain with the continuance of it was not, nor cannot now bee expreſſed: Shee had taken Phyſick from ſeveral Phy<g ref="char:EOLhyphen"/>ſitians, with all the advice that could bee given, or means adminiſtred unto her; yet all was in vain, but ſtill grew worſe and worſe rather than better: At the laſt, I my ſelf being brought by the providence of God into the Town where ſhee dwelt,
+<pb n="10" facs="tcp:32035:10"/>
+and hearing of it, I went unto her, and had ſome conference with her, deſiring with<g ref="char:EOLhyphen"/>all to accept of a Drink which I would make for her, I having had (as I told her) much experience of good it had done, and likewiſe to incourage her thereunto, I certified her that there could bee no dan<g ref="char:EOLhyphen"/>ger in the taking of it, ſeeing they were all ordinary things, and that there was nothing Phyſical whereby to ſtir the bo<g ref="char:EOLhyphen"/>dy, or to make it any way worſe than it was, yet ſhee was loath to venture upon it becauſe ſhee had tried ſo many Phyſitians already, and they had done her no good (which is a great fault found in many, be<g ref="char:EOLhyphen"/>cauſe they have had a diſeaſe long, and have tried many, therefore if any come that ſhould preſcribe any other way, then what was preſcribed before, they think it impoſſible, as if one perſon may not ex<g ref="char:EOLhyphen"/>ceed another, and may not have know<g ref="char:EOLhyphen"/>ledge in that diſeaſe which another hath not) ſo this Gentlewoman having had is ſo long, thought it impoſſible to receive any cure, and yeelded her ſelfe for dead, being worn away to an Anatomy, or Conſumption, yet by much perſwaſion, I obtained her leave to make it for her, and
+<pb n="11" facs="tcp:32035:10"/>
+ſhee promiſed mee to take it, and that night ſhee drank the firſt draught, but it made ſuch a ſtriving and ſtirring in her body to get the maſtery of the diſeaſe, that I could not perſwade her to drink of it any more, yet that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>very draught made a perfect cure, and ſhee re<g ref="char:EOLhyphen"/>covered.</p>
+               <p>Now becauſe the body is over-burthe<g ref="char:EOLhyphen"/>ned with Choller, Melancholy, and Flegm, therefore I hold it very uſeful and neceſ<g ref="char:EOLhyphen"/>ſary, that before you take any of the for<g ref="char:EOLhyphen"/>mer Remedies for the Flux, that you take this purge, which is very needful for the ex<g ref="char:EOLhyphen"/>pelling of thoſe humors formerly mentio<g ref="char:EOLhyphen"/>ned, if ſo bee that the party bee not too much worn away; if ſo, then I could ad<g ref="char:EOLhyphen"/>viſe you to forbear any ſuch means, and onely make uſe of that drink for them of riper years noted with a ſtar, neither is it to bee given unto children, for the drinke it ſelfe will cure it without any ſuch phy<g ref="char:EOLhyphen"/>ſick.</p>
+               <p>A preparative for the purge which I could adviſe you to take before. Take as much <hi>Senae</hi> finely poudered, as will lye on half a crown, with the pap of two or three roaſted apples well buttered, and
+<pb n="12" facs="tcp:32035:11"/>
+ſweetned with ſugar, and ſo mingled al<g ref="char:EOLhyphen"/>together with the powder of <hi>Senae,</hi> eat that inſtead of your ſupper (and drink a little warm broth after if you pleaſe) a little before you go to bed, it will lye in your body all the night, and not in the leaſt diſturb you of your ſleep, but to<g ref="char:EOLhyphen"/>wards the morning it will begin to work, and it may give you ſome two or three ſtools, according to the temper of your body, it may bee more, yet it will not make you ſick at all, but you may wear a Waſtecoat that night, or when you finde it beginne to worke, let a Waſtecoat bee warmed, or keep it in your bed all the night, that it may be fit for uſe; I would not have you to riſe out of your bed about the houſe untill you have taken the purge, or finde that firſt to move or ſtir in your body.</p>
+               <p>About an houre after the preparative have done working, take this purge fol<g ref="char:EOLhyphen"/>lowing in your bed.</p>
+               <p>Take of your <hi>Diaphenicon,</hi> give five drams to a woman, and fix to a man, in a quarter of a pinte of White-wine, ſtirring it about by the fire with your knife untill it bee wholly diſſolved, and ſo take it
+<pb n="13" facs="tcp:32035:11"/>
+warm, lying there till it begin to work (I mean for the ſpace of an houre) then let your cloaths bee well warmed, and riſe, having before hand a good fire prepared in your Chamber, cloath your ſelfe very hot, the hotter the better, although you are in a ſweating condition all the while the phy<g ref="char:EOLhyphen"/>ſick is working, and fit by the fire, or walls up and down in your Chamber till it hath done working, and keep out the ayre as much as may bee.</p>
+               <p>After every ſtool you ought to drinke <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> draught of broth made of a ſmall neck of Veal, which muſt bee put over the fire before you take the purge, that it may bee in readineſs, putting into your liquor one<g ref="char:EOLhyphen"/>ly a good cruſt of wheaten bread, and a little ſalt.</p>
+               <p>About an hour or more after the purge hath done working, take your reſt upon your bed, being covered hot for the ſpace o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an hour and half, for to refreſh nature that hath been ſomething wearied. In the mean time let this broth be made and provided.</p>
+               <p>Take a Chicken and boyl it in fair water with oat-meal groats (or great Oat-meal) finely beaten in a mortar, ſtrain them in a cloath with ſome of the liquor, then put
+<pb n="14" facs="tcp:32035:12"/>
+thereto Violet leaves, Strawberry leaves, the roots of Fennel and Parſly, the pith of them being taken out with a little whole Mace, Saffron, and Nutmeg, and one pen<g ref="char:EOLhyphen"/>niworth of Currans, boyl half the quanti<g ref="char:EOLhyphen"/>ty away, and ſo eat and drink thereof.</p>
+               <p>This purge purgeth Flegme, Choller, and Melancholy very eaſily, and never offends the ſtomack, neither maketh the party ſick, taking it in this manner after the preparative before mentioned.</p>
+               <p>There are certaine cautions to bee ob<g ref="char:EOLhyphen"/>ſerved both for meats and drinks for the ſpace of two or three dayes, while you are taking the Phyſick or the drink.</p>
+               <p n="1">1 Remember that for that time you drink neither Beer or Ale, ſtrong or ſmall, neither any Wine, unleſs it bee red Wine with a toaſt in it, but let your drink bee water and ſugar, ordered in this man<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, boyl in three pintes of water an ounce of Cynamon broken in peeces, for the ſpace of half an hour, and then make it a little ſweet with loaf Sugar, and ſo drink it as you do your ordinary drink, warm.</p>
+               <p n="2">2 Abſtain during the ſame time, or
+<pb n="15" facs="tcp:32035:12"/>
+longer, from Cabbage or pottage made of it, and green fruit.</p>
+               <p n="3">3 Abſtain from ſalt meats, as alſo from freſh Eeles and Playſe.</p>
+               <p n="4">4 Put in your pottage leaves of Plan<g ref="char:EOLhyphen"/>tane three or four, and eat dry meats for the moſt part, as Mutton, your Beef mode<g ref="char:EOLhyphen"/>rately ſalted, Rabbets, &amp;c.</p>
+               <p>And remember that at night when you go to bed, the ſame day in which you have taken the purge, you may take a draught of that drink which is appointed for this diſeaſe: If you are to make uſe of Gliſters it is good to put the juyce of Plantane in<g ref="char:EOLhyphen"/>to them.</p>
+            </div>
+            <trailer>Exitus acta probat.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
